@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\",
+  "WorkspaceRootPath": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{283A8988-2BE8-4265-ACB5-EE345D6AC5BE}|OpenTK_console_sample02\\OpenTK_console_sample02.csproj|d:\\scoala\\facultate\\anul iii\\egc\\opentk_introducere\\opentk_console_sample02\\opentk_console_sample02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283A8988-2BE8-4265-ACB5-EE345D6AC5BE}|OpenTK_console_sample02\\OpenTK_console_sample02.csproj|solutionrelative:opentk_console_sample02\\opentk_console_sample02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample02\\OpenTK_console_sample02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenTK_console_sample02\\OpenTK_console_sample02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145A2F7D-F5EC-4DF7-939B-94A6C8F87AF5}|OpenTK_console_sample01\\OpenTK_console_sample01.csproj|D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\opentk_console_sample01\\opentk.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{145A2F7D-F5EC-4DF7-939B-94A6C8F87AF5}|OpenTK_console_sample01\\OpenTK_console_sample01.csproj|solutionrelative:opentk_console_sample01\\opentk.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenTK_console_sample01\\OpenTK.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145A2F7D-F5EC-4DF7-939B-94A6C8F87AF5}|OpenTK_console_sample01\\OpenTK_console_sample01.csproj|D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\opentk_console_sample01\\opentk_console_sample01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A2F7D-F5EC-4DF7-939B-94A6C8F87AF5}|OpenTK_console_sample01\\OpenTK_console_sample01.csproj|solutionrelative:opentk_console_sample01\\opentk_console_sample01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_immediate_mode\\ImmediateMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenTK_immediate_mode\\ImmediateMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD2A8F05-D581-443A-9199-C80915C0B07B}|OpenTK_immediate_mode\\OpenTK_immediate_mode.csproj|D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\opentk_immediate_mode\\immediatemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD2A8F05-D581-443A-9199-C80915C0B07B}|OpenTK_immediate_mode\\OpenTK_immediate_mode.csproj|solutionrelative:opentk_immediate_mode\\immediatemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK_console_sample01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenTK_console_sample01\\OpenTK_console_sample01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OpenTK.dll.config",
-              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK.dll.config",
+              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK.dll.config",
               "RelativeDocumentMoniker": "OpenTK_console_sample01\\OpenTK.dll.config",
-              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK.dll.config",
+              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK.dll.config",
               "RelativeToolTip": "OpenTK_console_sample01\\OpenTK.dll.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -46,11 +46,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ImmediateMode.cs",
-              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_immediate_mode\\ImmediateMode.cs",
+              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_immediate_mode\\ImmediateMode.cs",
               "RelativeDocumentMoniker": "OpenTK_immediate_mode\\ImmediateMode.cs",
-              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_immediate_mode\\ImmediateMode.cs",
+              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_immediate_mode\\ImmediateMode.cs",
               "RelativeToolTip": "OpenTK_immediate_mode\\ImmediateMode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,22 +60,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OpenTK_console_sample02.cs",
-              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_console_sample02\\OpenTK_console_sample02.cs",
+              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample02\\OpenTK_console_sample02.cs",
               "RelativeDocumentMoniker": "OpenTK_console_sample02\\OpenTK_console_sample02.cs",
-              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_console_sample02\\OpenTK_console_sample02.cs",
+              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample02\\OpenTK_console_sample02.cs",
               "RelativeToolTip": "OpenTK_console_sample02\\OpenTK_console_sample02.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAmwA8AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T11:19:32.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OpenTK_console_sample01.cs",
-              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK_console_sample01.cs",
+              "DocumentMoniker": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK_console_sample01.cs",
               "RelativeDocumentMoniker": "OpenTK_console_sample01\\OpenTK_console_sample01.cs",
-              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK_console_sample01.cs",
+              "ToolTip": "D:\\Scoala\\Facultate\\Anul III\\EGC\\VieriuM_temaCLI\\OpenTK_Introducere\\OpenTK_console_sample01\\OpenTK_console_sample01.cs",
               "RelativeToolTip": "OpenTK_console_sample01\\OpenTK_console_sample01.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
