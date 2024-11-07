@@ -1,0 +1,11 @@
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\bin\Debug\OpenTK.dll
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\bin\Debug\OpenTK.pdb
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\bin\Debug\OpenTK.xml
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleA.88426B56.Up2Date
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Scoala\Facultate\Anul III\EGC\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

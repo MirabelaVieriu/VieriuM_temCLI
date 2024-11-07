@@ -1,0 +1,11 @@
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\bin\Debug\Laborator_05.exe.config
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\bin\Debug\Laborator_05.exe
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\bin\Debug\Laborator_05.pdb
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\bin\Debug\OpenTK.dll
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\bin\Debug\OpenTK.pdb
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\bin\Debug\OpenTK.xml
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\obj\Debug\Laborator_05.csproj.AssemblyReference.cache
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\obj\Debug\Laborator_05.csproj.CoreCompileInputs.cache
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\obj\Debug\Laborato.CAEF9DBF.Up2Date
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\obj\Debug\Laborator_05.exe
+D:\Scoala\Facultate\Anul III\EGC\VieriuM_temaCLI\Laborator_05\Laborator_05\obj\Debug\Laborator_05.pdb
