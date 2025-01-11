@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|d:\\facultate\\anul iii\\sem i\\egc\\test3\\opentk3_standardtemplate_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|d:\\facultate\\anul iii\\sem i\\egc\\test3\\opentk3_standardtemplate_winforms\\objects\\rectangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|solutionrelative:objects\\rectangles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|d:\\facultate\\anul iii\\sem i\\egc\\test3\\opentk3_standardtemplate_winforms\\objects\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|solutionrelative:objects\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|d:\\facultate\\anul iii\\sem i\\egc\\test3\\opentk3_standardtemplate_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}|OpenTK3_StandardTemplate_WinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\objects\\Scene.cs",
+              "RelativeDocumentMoniker": "objects\\Scene.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\objects\\Scene.cs",
+              "RelativeToolTip": "objects\\Scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:52:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangles.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\objects\\Rectangles.cs",
+              "RelativeDocumentMoniker": "objects\\Rectangles.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\objects\\Rectangles.cs",
+              "RelativeToolTip": "objects\\Rectangles.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:52:36.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:52:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Sem I\\EGC\\Test3\\OpenTK3_StandardTemplate_WinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:52:24.888Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
